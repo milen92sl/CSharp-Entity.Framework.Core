@@ -1,0 +1,15 @@
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.runtimeconfig.json
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.runtimeconfig.dev.json
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csprojAssemblyReference.cache
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Entity Framework Exercices\Databases-A.T\Databases-MSSQL-EntityFramework-SoftUni-Problems-main\Entity Framework\EF Advanced Querying\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.genruntimeconfig.cache
