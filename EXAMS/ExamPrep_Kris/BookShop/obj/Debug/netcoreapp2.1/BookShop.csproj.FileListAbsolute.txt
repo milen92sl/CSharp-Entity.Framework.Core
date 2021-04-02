@@ -1,0 +1,12 @@
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+D:\C# DataBases-SoftUni - Milen Ivanov\Entity Framework Exercices\EXAMS\ExamPrep_Kris\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
